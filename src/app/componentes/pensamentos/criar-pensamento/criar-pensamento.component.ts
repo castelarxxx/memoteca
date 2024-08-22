@@ -22,6 +22,6 @@ export class CriarPensamentoComponent implements OnInit {
     alert('Novopensamentocriado')
   }
 
-  cancelar(){
- console.log("Cancelando")  }
+cancelar(){
+console.log("Cancelando")  }
 }
